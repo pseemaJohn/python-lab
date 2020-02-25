@@ -1,0 +1,12 @@
+print(2*3+4)
+print("value is",len("hi how are you"))
+print(2 or 0)
+print(2 and 0)
+print(bool(2 and 0))
+print(2 | 1)
+print(5 // 2)
+print(5 / 2)
+print("hi"+"how are you")
+print("Seema" * 6,end=": \n")
+print(2 ** 4)
+
